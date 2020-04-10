@@ -1,10 +1,10 @@
 {
-    "repositories": [
-        {
-            "type": "svn",
-            "url": "https://github.com/kdps/Xanax-Example"
+    "repositories": {
+        "Xanax": {
+            "type": "vcs",
+            "url": "https://github.com/kdps/Xanax"
         }
-    ],
+    },
     "require": {
         "kdps/xanax": "master@dev"
     }
