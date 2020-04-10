@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vsc",
+            "url": "https://github.com/kdps/Xanax-Example"
+        }
+    ],
+    "require": {
+        "kdps/xanax": "master@dev"
+    }
+}
