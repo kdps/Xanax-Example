@@ -1,7 +1,7 @@
 {
     "repositories": [
         {
-            "type": "vsc",
+            "type": "svn",
             "url": "https://github.com/kdps/Xanax-Example"
         }
     ],
