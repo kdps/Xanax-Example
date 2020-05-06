@@ -2,7 +2,7 @@
 
 include './vendor/autoload.php';
 
-use Xanax\Classes\DirectoryHandler;
+use Xanax\Classes\Directory\Handler as DirectoryHandler;
 
 $directoryHandler = new DirectoryHandler();
 echo 'File count in current directory : ' . $directoryHandler->getFileCount('.') . '<Br>';
