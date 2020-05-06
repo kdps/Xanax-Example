@@ -2,8 +2,8 @@
 
 include './vendor/autoload.php';
 
-use Xanax\Classes\EventDispatcher;
-use Xanax\Classes\DirectoryHandler;
+use Xanax\Classes\Event\Dispatcher as EventDispatcher;
+use Xanax\Classes\Directory\Handler as DirectoryHandler;
 use Xanax\Classes\File\Handler as FileHandler;
 
 class FileExample
