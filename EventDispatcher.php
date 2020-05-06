@@ -2,7 +2,7 @@
 
 include './vendor/autoload.php';
 
-use Xanax\Classes\EventDispatcher;
+use Xanax\Classes\Event\Dispatcher as EventDispatcher;
 
 class Listener
 {
